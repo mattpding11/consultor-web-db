@@ -1,0 +1,40 @@
+*{
+    font-family: "Roboto Light";
+}
+
+table{
+    border: 1px solid black;
+    text-align: center;
+}
+
+thead{
+    background: #757575;
+}
+
+thead tr{
+    color: #FFFFFF;
+}
+
+tbody tr td[id="codigoPeriodo"]{
+    cursor: pointer;
+}
+
+tbody tr td[id="codigoProfesor"]{
+    cursor: pointer;
+}
+
+tbody tr{
+    color: #424242;
+}
+
+tbody tr:hover{
+    color: #FFFFFF;
+    background: #424242;
+}
+
+
+input[type="submit"], button{
+   cursor: pointer;
+}
+
+/*#757575*/
