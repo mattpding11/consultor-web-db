@@ -1,5 +1,6 @@
 <?php
 
+# Si su usuario y contraseña de cliente mysql es diferente favor cambiar user y password respectivamente
 
 $host = "localhost"; # or 127.0.0.1 -> corresponde al host de la conexion
 $user = "root"; # Nombre del usuario configurado en la base de datos
