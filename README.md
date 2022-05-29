@@ -7,7 +7,7 @@ Como usar la aplicación
 -	La base de datos con el nombre **_bd_universidad.sql_** debe importarla en **phpMyAdmin**, puede usar cualquier programa gestor con **apache y MySQL** como **xampp**, **ampps**, o preferiblemente **wampserver**,
 -	Habrá cualquier cliente de MySQL para probar la conexión a esta
 -	Debe pegar la carpeta del proyecto en la ruta **htdocs**, o **www**, dependiendo del sistema de gestión de base de datos MySQL que este usando en caso de que sea **wamp** la carpeta es `C:\wamp64\www`, y `C:\xampp\htdocs` para **xampp**
-
+-	Luego abra el `http://localhost/gestionador%20#1` y  `http://localhost/gestionador%20#2`
 ## Consultor #1
 
 Esta pantalla hace consultas a la base de datos de universidad, es capaz de buscar y ejecutar procedimientos almacenados. 
